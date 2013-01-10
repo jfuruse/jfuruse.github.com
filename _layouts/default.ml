@@ -8,7 +8,7 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>Camlspotter.github.com</title>
+    <title>jun.furuse.info</title>
   </head>
 
   <body>
